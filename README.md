@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a software engineer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. Please feel free to reach out @https://www.linkedin.com/in/abdurahmane-sow-759414168/. 
 <!--
 **Dourasow/Dourasow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
